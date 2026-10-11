@@ -24,4 +24,4 @@ Soft Delete Restore
 
 Final Result
 
- <img width="1816" height="1020" alt="image" src="https://github.com/user-attachments/assets/23243c74-8e31-49d5-aadb-0f8c6429cef1" />
+<img width="1817" height="1022" alt="image" src="https://github.com/user-attachments/assets/888633c7-ced9-4cd8-a7da-08ad27cc666c" />
