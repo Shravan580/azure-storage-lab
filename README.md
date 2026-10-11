@@ -1,15 +1,16 @@
 # azure-storage-lab
 
-Azure Storage Lab
+**Azure Storage Lab**
 Objective
 Create and manage Azure Blob Storage.
 
-Technologies
+**Technologies**
 Azure Storage Account
 Blob Storage
 SAS Tokens
 IAM
-Tasks Performed
+
+**Tasks Performed**
 Created Resource Group
 Created Storage Account
 Configured Blob Container
@@ -17,9 +18,17 @@ Uploaded Files
 Generated SAS URL
 Explored IAM Roles
 Tested File Access
-Skills Learned
+
+**Skills Learned**
 Azure Storage
 Blob Storage
 Access Management
 Cloud File Management
 Data Protection
+
+
+**Additional Features Tested**  
+
+Blob Soft Delete
+File Recovery
+Storage Data Protection
